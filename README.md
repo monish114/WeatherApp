@@ -1,16 +1,9 @@
-# climate_flutter
+Description
+This is a weather app that takes in the real time weather data from an API and display the weather conditon. The data is sent through bluetooth module. The app features Home page and search page.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home Page: Contains the weather data and weather LED light presentattion for each weather conditons
+Search Page: This page helps to search for different cities to get the weather conditions 
+Features
+Search Bar: The bar takes in the input and gives the selected place's weather details.
+Weather Data: The real time weather information is fetched from an API.
+Responsive Design: Optimized for all mobile devices.
