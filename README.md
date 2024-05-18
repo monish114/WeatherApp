@@ -1,15 +1,15 @@
-Description
+# Description
 This is a weather app that retrieves real-time weather data from an API and displays the current weather conditions. The data is transmitted through a Bluetooth module. The app features a Home Page and a Search Page, providing an intuitive and user-friendly experience.
 
-Features
-Home Page
+## Features
+**Home Page**
 Weather Data Display: Presents real-time weather information, including temperature, humidity, wind speed, and other relevant details.
 Weather LED Light Representation: Shows a visual representation of the current weather conditions using LED lights, making it easy to quickly understand the weather at a glance.
-Search Page
+**Search Page**
 Search Bar: Allows users to input a city name and retrieve the weather details for the selected location.
 Weather Data: Fetches and displays real-time weather information for the searched city, including all the key weather metrics.
 Autocomplete Suggestions: As the user types, the search bar provides suggestions to make it easier to find the correct city.
-Additional Features
+### Additional Features
 Responsive Design: The app is optimized for all mobile devices, ensuring a seamless user experience across different screen sizes and resolutions.
 Bluetooth Integration: Utilizes a Bluetooth module to transmit weather data, providing a reliable and efficient connection.
 Technical Details
